@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	controllers "restaurant-management/controllers"
+	controllers "restaurant-management/controller"
 )
 
 func MenuRoutes(incommingRoutes *gin.Engine) {
